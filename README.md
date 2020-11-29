@@ -1,14 +1,17 @@
 # multitask_deepfashion
 
-#### Using a pre-trained model, build a deep network that predicts the category and attributes of an item simultaneously. 
+**Abstract**  
+Using a pre-trained model, build a deep network that predicts the category and attributes of an item simultaneously. 
 
-use `Python 3.6.9`
-`torch==1.7.0+cu101`
-`torchsummary==1.5.1`
-`torchtext==0.3.1`
+**version**
+`Python 3.6.9` <br> 
+`torch==1.7.0+cu101` <br>
+`torchsummary==1.5.1` <br>
+`torchtext==0.3.1` <br>
 `torchvision==0.8.1+cu101`
 
 
+## Prepare Data
    
 *  Category (class classification): 10  
 *  Attribute (multi label classification): 15

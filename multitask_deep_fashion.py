@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1HjR3vur-b4SeTj8Y3662phs5wCz6ftIr
 
 # Assignment 4 
-Hi I'm 張瓊云, B064020052
 
 Using a pre-trained model, build a deep network that
 predicts the category and attributes of an item simultaneously.

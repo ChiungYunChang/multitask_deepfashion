@@ -1,4 +1,4 @@
-## multitask_deepfashion
+## Multitask_deepfashion
 
 **Abstract**  
 Using a pre-trained model, build a deep network that predicts the category and attributes of an item simultaneously. 

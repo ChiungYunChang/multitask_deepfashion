@@ -1,5 +1,5 @@
 ## Multitask_deepfashion
-(**NOTE**: For multi-label problem the loss be be **nn.BCELoss()** or **nn.BCEWithLogitsLoss()**)
+(**NOTE**: For multi-label problem the loss  be **nn.BCELoss()** or **nn.BCEWithLogitsLoss()**)
 
 
 **Abstract**  

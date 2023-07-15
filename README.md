@@ -1,5 +1,7 @@
 ## Multitask_deepfashion
-(*NOTE: THE LOSS SHOULD BE nn.BCELoss())
+(**NOTE**: THE LOSS SHOULD BE nn.BCELoss())
+
+
 **Abstract**  
 Using a pre-trained model, build a deep network that predicts the category and attributes of an item simultaneously. 
 
